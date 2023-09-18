@@ -7,7 +7,7 @@
 	<h2>THIS IS JENKINS and CI/CD pipeline say hello</h2>
 	<h2>THIS IS JENKINS and CI/CD pipeline say hello</h2>
 	<h2>THIS IS JENKINS and CI/CD pipeline say hello</h2>
-	
+	<h1 style="color:blue">hii rk karravula welcome to the apache-tomcat server </h1>
 	
 	
 	
